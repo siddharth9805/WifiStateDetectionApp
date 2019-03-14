@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wifi state</string>
+    <string name="check">Check</string>
+    <string name="button">Button</string>
+    <string name="save_state">Save State</string>
+    <string name="load_file">Load File</string>
+</resources>
