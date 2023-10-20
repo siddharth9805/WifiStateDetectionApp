@@ -36,13 +36,6 @@
 </p>
 
 ------------------------------------------
-### Demo
-<p align="center">
-    <img width=360px height=640px src="./Demo.gif">
-</p>
-
-
-------------------------------------------
 ### Installation
 * For Usage
     * Download the [`Wifi_Signal_Strength_Meter.apk`](./Wifi_Signal_Strength_Meter.apk) and install it on your device. 
