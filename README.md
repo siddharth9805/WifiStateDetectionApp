@@ -6,8 +6,6 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 <h4>This application can be used to measure the strength of WiFi signals that your device is receiving. Move around as you do this, and the app keeps track of signal variations as you move, second by second. Find the best spot, and forget buffering and lagging video calls! </h4>
 
 </div>
@@ -47,7 +45,3 @@
 ------------------------------------------
 ### Author
 Siddahrth Umachandar - [sidharth9805](https://github.com/siddharth9805)
-
-------------------------------------------
-### License
-This project is licensed under the MIT - see the [LICENSE](./LICENSE) file for details.
