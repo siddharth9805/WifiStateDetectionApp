@@ -36,21 +36,17 @@
 </p>
 
 ------------------------------------------
-### Installation
-* For Usage
-    * Download the [`Wifi_Signal_Strength_Meter.apk`](./Wifi_Signal_Strength_Meter.apk) and install it on your device. 
-    * Grant 'Storage' and 'Location' permission to the app.
-  
+### Installation  
 * For Development
     * Clone the repo
     ```sh
-        $ git clone https://github.com/mihir-m-gandhi/WiFi-Signal-Strength-Meter
+        $ git clone https://github.com/siddharth9805/WifiStateDetectionApp.git
     ```
     * Open `Code` folder in Android Studio.
     
 ------------------------------------------
 ### Author
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+Mihir Gandhi - [siddharth umachandar](https://github.com/siddharth9805)
 
 ------------------------------------------
 ### License
