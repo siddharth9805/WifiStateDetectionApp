@@ -46,7 +46,7 @@
     
 ------------------------------------------
 ### Author
-Mihir Gandhi - [siddharth umachandar](https://github.com/siddharth9805)
+Siddahrth Umachandar - [sidharth9805](https://github.com/siddharth9805)
 
 ------------------------------------------
 ### License
